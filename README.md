@@ -9,7 +9,7 @@ yarn install
 
 运行应用
 ```
-yarn dev
+yarn start
 ```
 
 打开远程服务页面
